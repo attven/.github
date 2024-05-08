@@ -1,3 +1,5 @@
 # ATT (X)
 
-We build cool things that are useful
+Empowering meaningful progress
+
+EST 2024
