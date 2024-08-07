@@ -14,7 +14,7 @@ attventures consists of members from across the globe, in various fields - mostl
 
 |Name|About|
 |----|-----|
-|Assurance|The Discord bot designed to provide an all-in-one solution towards server moderation, security, and enforcement of rules and guidelines. It uses APIs, algorithms, analytics and machine learning to enforce and protect communities from potential and known threats - in any kind.|
+|[**F35C**](https://github.com/attventures/F35C)|Generic, multirole open-source Discord bot. Designed for you to self-host and build up on. Built using Pycord, with a modular Cog structure.
 
 ### Meet the team
 
