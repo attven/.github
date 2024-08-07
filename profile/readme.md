@@ -14,7 +14,7 @@ attventures consists of members from across the globe, in various fields - mostl
 
 |Name|About|
 |----|-----|
-|[**F35C**](https://github.com/attventures/F35C)|Generic, multirole open-source Discord bot. Designed for you to self-host and build up on. Built using Pycord, with a modular Cog structure.
+|[**F-35C**](https://github.com/attventures/F-35C)|Generic, multirole open-source Discord bot. Designed for you to self-host and build up on. Built using Pycord, with a modular Cog structure.
 
 ### Meet the team
 
