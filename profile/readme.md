@@ -2,7 +2,7 @@
 
 # Adventures excites
 
-[Projects](projects)
+[Projects](#projects)
 
 We embark on countless adventures on various fields and levels of difficulties to assist and deliver products/services that improves the quality of your life.
 
