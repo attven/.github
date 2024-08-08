@@ -18,8 +18,12 @@ attventures consists of members from across the globe, in various fields - mostl
 
 ### Meet the team
 
-* [luqman](https://github.com/luq-mn) 🇲🇾 - Lead manager, developer
+* [luqman](https://github.com/luq-mn) 🇲🇾 - Lead Developer, Manager
+* [pipc](https://github.com/PiPc1) 🇺🇸 - Frontend Developer
+* [jack](https://github.com/Jack-John-Joe) 🇵🇭 - Developer
 * [kobran](https://github.com/KobranFK) 🇸🇪 - No idea what he's doing
+
+More onboarding soon. Interested? Tell us a bit about yourself in our [Discord server](https://discord.gg/ESJZK8Dkfr)!
 
 ----
 
