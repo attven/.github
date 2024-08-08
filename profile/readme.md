@@ -14,7 +14,8 @@ attventures consists of members from across the globe, in various fields - mostl
 
 |Name|About|
 |----|-----|
-|[**F-35C**](https://github.com/attventures/F-35C)|Generic, multirole open-source Discord bot. Designed for you to self-host and build up on. Built using Pycord, with a modular Cog structure.
+|[**F-35C**](https://github.com/attventures/F-35C)|**Generic, multi-role open-source Discord bot** template. Designed for you easily to easily self-host, and use as a template for your own bots.|
+|[**NoteLook**](https://github.com/attventures/NoteLook)|**Title, Text, and Done**. Simple, straightforward note-taking app written in Python using the PyQt5 library.|
 
 ### Meet the team
 
